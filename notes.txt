@@ -1,0 +1,23 @@
+[search]
+Task: Japan population 2024, Germany population 2024
+Report: **Population estimates for 2024**
+
+| Country | 2024 population (latest estimate) | Source |
+|---------|------------------------------------|--------|
+| Japan   | **122,631,432** people | Macrotrends – “Japan Population (2026)” (shows 2024 figure) |
+| Germany | **83,252,474** people | Macrotrends – “Germany Population (2026)” (shows 2024 figure) |
+
+These figures are the most recent official estimates available for 2024. Japan’s population is just over 122 million, while Germany’s is about 83 million.
+
+[maths]
+Task: (122631432-83252474)*100/83252474
+Report: The calculated value is:
+
+\[
+\boxed{47.30064598440642}
+\]
+
+[manager]
+FINAL ANSWER:
+Japan's population is 122,631,432 and Germany's is 83,252,474. Japan has 39,378,958 more people than Germany, which is approximately 47.30 % of Germany's population.
+
